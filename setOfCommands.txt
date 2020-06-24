@@ -1,0 +1,6 @@
+
+
+When env ready.
+npm run rust
+npm run build
+npm run start
